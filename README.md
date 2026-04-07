@@ -51,3 +51,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/judgenest-public.git
 cd judgenest-public
+
+## 🚧 Project Status
+Currently under development. Deployment coming soon.
